@@ -55,6 +55,7 @@ Every article follows the same format, so content is easy to scan:
 
 - [Glossary](resources/glossary.md): key terms, explained simply
 - [Reading list](resources/reading-list.md): foundational papers by topic
+- [LLM reading list](resources/llm-reading-list.md): talks, papers, courses and tools collected in November 2026, grouped by topic
 
 ## 👤 About
 
