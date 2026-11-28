@@ -17,11 +17,11 @@ How to measure what models and AI products can actually do: benchmarks, LLM-as-a
 
 | Date | Article | Level | Based on | Slides |
 |---|---|---|---|---|
-| _Coming soon_ | | | | |
+| 2026-11-25 | [Position bias in LLM-as-a-judge](2026-11-25-llm-judge-position-bias.md) | intermediate | Stanford CME295 Lecture 8, Afshine Amidi and Shervine Amidi | _forthcoming_ |
 
 ## Foundational reading
 
 - [Measuring Massive Multitask Language Understanding (MMLU)](https://arxiv.org/abs/2009.03300) (Hendrycks et al., 2020)
 - [Holistic Evaluation of Language Models (HELM)](https://arxiv.org/abs/2211.09110) (Liang et al., 2022)
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) (Zheng et al., 2023)
-
+- [LLM reading list](../../resources/llm-reading-list.md): a longer list of talks, papers, courses and tools, grouped by topic
